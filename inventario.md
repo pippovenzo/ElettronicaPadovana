@@ -2,3 +2,4 @@
 2113705
 
 Processori
+Schede madri
